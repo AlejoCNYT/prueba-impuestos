@@ -105,9 +105,7 @@ prueba-impuestos/
 
 ## Capturas de funcionamiento
 
-![Menú principal](imagenes/menu.png)
-
-![Exportación a Excel](imagenes/exportacion.png)
+<img width="386" height="888" alt="Menu" src="https://github.com/user-attachments/assets/dc3f145a-5e64-43ab-ac68-0612165dce80" />
 
 *Agrega aquí tus capturas de pantalla mostrando el menú funcionando y la exportación exitosa a reporte.xlsx*
 
