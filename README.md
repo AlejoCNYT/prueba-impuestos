@@ -103,12 +103,6 @@ prueba-impuestos/
 - `db.py`: administra la conexión con `PRUEBA01.db` y crea la tabla `impuestos` con las columnas `sticker`, `fecha_movimiento`, `fecha_recaudo`, `tipo_horario`, `nro_id`, `nro_form` y `valor`.
 - `cargar_datos.py`: lee `datos.txt` y almacena sus siete campos en la base de datos.
 
-## Capturas de funcionamiento
-
-<img width="386" height="888" alt="Menu" src="https://github.com/user-attachments/assets/dc3f145a-5e64-43ab-ac68-0612165dce80" />
-
-*Agrega aquí tus capturas de pantalla mostrando el menú funcionando y la exportación exitosa a reporte.xlsx*
-
 ## Autor
 
 Daniel
