@@ -1,4 +1,3 @@
-(.venv) daniel@ASUS-DEV:~/prueba-impuestos$ cat consultas.py
 from openpyxl import Workbook
 
 from db import get_connection
